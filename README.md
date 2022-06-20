@@ -12,3 +12,5 @@ https://leocrydis.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Isaiah Alvarez]
+
+### ©️2019 Run Buddy, Inc 
